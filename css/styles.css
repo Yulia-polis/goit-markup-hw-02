@@ -1,0 +1,167 @@
+body{
+    font-family: "Roboto", "Raleway", sans-serif; 
+}
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style-type: none;
+}
+button{
+    cursor: pointer;
+}
+
+/*  #region Header */
+.logo-studio{
+    color: #2e2f42;
+}
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    }
+.navigation{
+        font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    }
+
+.navigation:hover,
+.navigation:focus{
+        color: #404bbf;
+    }
+
+    .address{
+        font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    }
+
+    .address:hover{
+        color: #404bbf;
+    }
+    /* #endregion */
+
+    /* #region Hero */
+    .hero{
+        background-color: #2e2f42;
+    }
+    .title-hero{
+        font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+    }
+    .hero-btn{
+        font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background-color: #4d5ae5;
+    }
+    .hero-btn:hover{
+        background-color: #404bbf;
+    }
+ /* #endregion */
+
+ /* #region Info  */
+
+ 
+    .info-title{
+        font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    }
+
+    .info-p{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+    }
+    
+    /* #endregion */
+    /* #region Team */
+    .team-title{
+        font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    }
+    
+    .team-name{
+        font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    }
+    
+    .team-post{
+        font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+    }
+    /* #endregion */
+    
+    
+    /* #region Port */
+    .port-title {
+        font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    }
+    .port-name {
+        font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    }
+    .port-type {
+        font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    }
+    /* #endregion */
+
+.footer{
+    background-color: #2e2f42;
+}
+.logo-footer {
+    color: #f4f4fd;
+}
+.info-footer {
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
+
+    
